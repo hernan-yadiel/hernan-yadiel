@@ -13,3 +13,18 @@
     </a>
 </p>
 
+<h4><b>Some Languages and Technologies I use:</b></h4>
+<br>
+<p align="center">
+  <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img title="Angular" alt="angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
+  <code><img tittle="Sass" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+  <code><img title="TypeScript" alt="typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+  <code><img title="NodeJS" alt="NodeJS" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+  <code><img title="Express" alt="express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></code>
+  <code><img tittle="MongoDB" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+  <code><img title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
+  <code><img title="Heroku" alt="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+  <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img title="Bash" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></code>
+</p>
