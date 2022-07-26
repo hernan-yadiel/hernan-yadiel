@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/yadielvelez/">
-        <img src="https://img.shields.io/badge/%20-YadielVélez-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/%20-Yadiel%20Vélez-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
     </a>
     <a href="https://twitter.com/cyberlingvist">
         <img src="https://img.shields.io/badge/%20-@cyberlingvist-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
