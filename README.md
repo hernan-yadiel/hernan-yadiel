@@ -16,7 +16,6 @@
       src="https://img.shields.io/badge/%20-@cyberlingvist-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
   </a>
 </p>
-<h3>About Me</h3>
 <p>
 I am a software engineer that focuses on full-stack development. In my full-stack tool belt I have frontend frameworks and libraries such as Angular and React, and on the server side I have Node.js frameworks such as Express.js, and MongoB.
 
