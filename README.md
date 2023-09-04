@@ -11,9 +11,9 @@
     <img
       src="https://img.shields.io/badge/%20-Yadiel%20Vélez-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
   </a>
-  <a href="https://twitter.com/cyberlingvist">
+  <a href="https://twitter.com/hernan_yadiel">
     <img
-      src="https://img.shields.io/badge/%20-@cyberlingvist-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
+      src="https://img.shields.io/badge/%20-@hernan_yadiel-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
   </a>
 </p>
 <p>
