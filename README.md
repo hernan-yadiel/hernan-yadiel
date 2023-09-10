@@ -4,9 +4,6 @@
       alt="Yadiel Vélez, software engineer and full-stack developer"></a>
 </div>
 <p align="center">
-  <img src="https://github.com/hernan-yadiel/hernan-yadiel/blob/master/my-octocat-sm.png" alt="My octocat" />
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/yadielvelez/">
     <img
       src="https://img.shields.io/badge/%20-Yadiel%20Vélez-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff" />
@@ -17,7 +14,9 @@
   </a>
 </p>
 <p>
-I am a software engineer that focuses on full-stack development. In my full-stack tool belt I have frontend frameworks and libraries such as Angular and React, and on the server side I have Node.js frameworks such as Express.js, and MongoB.
+👋 Hey!
+
+I'm a Full-Stack Software Engineer specialized in the JavaScript ecosystem. Think of me as a Swiss Army knife in the dev world: frontend, backend, and even infrastructure—I've got a tool for that! Passionate about crafting user-centric, value-driven applications that scale. Love to deep-dive into tech and solve those pesky problems. 🚀🔪
 
 </p>
 <h4><b>Some Languages and Technologies I use:</b></h4>
