@@ -1,8 +1,25 @@
 <div align="center">
-  <a href="[https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.herokuapp.com?color=1BAC00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=My+name+is+Yadiel+V%C3%A9lez;I'm+a+software+engineer;focusing+on+full-stack+development"
-      alt="Yadiel Vélez, software engineer and full-stack developer"></a>
+  <a href="[https://git.io/typing-svg">
+    <img
+      src="https://github.com/hernan-yadiel/hernan-yadiel/assets/16180439/b867a1ee-0028-435c-a79d-5640762dfd6f"
+      alt="A cute velociraptor wearing a black hoodie and glasses"
+      width="300px"
+      height="300px">
+  </a>
 </div>
+<p>
+
+👋 Hey there!
+
+I'm a versatile Full-Stack Software Engineer with a strong footing in the JavaScript ecosystem. Think of me not just as a JavaScript enthusiast, but as a tech-adaptive engineer—whether it's frontend, backend, or navigating through the intricacies of infrastructure, I'm your go-to. My passion lies in building user-centric, scalable applications and diving deep into technological challenges, regardless of the language or framework. 🚀
+
+While JavaScript is my current playground, I'm always ready to roll up my sleeves for any tech stack. Whether it's Java or a new kid on the block, I'm all in for engineering solutions that matter.
+
+
+Let's connect and maybe swap some code stories over a virtual coffee! ☕️
+
+<br />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yadielvelez/">
     <img
@@ -12,25 +29,4 @@
     <img
       src="https://img.shields.io/badge/%20-@hernan_yadiel-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff">
   </a>
-</p>
-<p>
-👋 Hey!
-
-I'm a Full-Stack Software Engineer specialized in the JavaScript ecosystem. Think of me as a Swiss Army knife in the dev world: frontend, backend, and even infrastructure—I've got a tool for that! Passionate about crafting user-centric, value-driven applications that scale. Love to deep-dive into tech and solve those pesky problems. 🚀🔪
-
-</p>
-<h4><b>Some Languages and Technologies I use:</b></h4>
-<br>
-<p align="center">
-  <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img title="Angular" alt="angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
-  <code><img tittle="Sass" alt="sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
-  <code><img title="TypeScript" alt="typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
-  <code><img title="NodeJS" alt="NodeJS" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-  <code><img title="Express" alt="express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /></code>
-  <code><img tittle="MongoDB" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /></code>
-  <code><img title="AWS" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
-  <code><img title="Heroku" alt="Heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
-  <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-  <code><img title="Bash" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></code>
 </p>
