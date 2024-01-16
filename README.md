@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="[https://git.io/typing-svg">
-    <img
-      src="https://github.com/hernan-yadiel/hernan-yadiel/assets/16180439/b867a1ee-0028-435c-a79d-5640762dfd6f"
-      alt="A cute velociraptor wearing a black hoodie and glasses"
-      width="300px"
-      height="300px">
-  </a>
-</div>
 <p>
 
 👋 Hey there!
