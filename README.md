@@ -1,4 +1,4 @@
-<h2>👋 Hi! </h2>
+<h2>👋 Hi! I'm Yadiel </h2>
 
 <p>
 I'm a versatile Full-Stack Software Engineer with a strong footing in the JavaScript ecosystem. Think of me not just as a JavaScript enthusiast, but as a tech-adaptive engineer—whether it's frontend, backend, or navigating through the intricacies of infrastructure, I'm your go-to. My passion lies in building user-centric, scalable applications and diving deep into technological challenges, regardless of the language or framework. 🚀
