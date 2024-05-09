@@ -1,11 +1,14 @@
-<h2>👋 Hi! I'm Yadiel </h2>
+## Heeeeey!
 
 <p>
-I'm a versatile Full-Stack Software Engineer with a strong footing in the JavaScript ecosystem. Think of me not just as a JavaScript enthusiast, but as a tech-adaptive engineer—whether it's frontend, backend, or navigating through the intricacies of infrastructure, I'm your go-to. My passion lies in building user-centric, scalable applications and diving deep into technological challenges, regardless of the language or framework. 🚀
+I'm Yadiel, a software engineer based in New York specializing in user interfaces and design systems. I also have extensive experience with distributed systems, including everything from databases to backend APIs. 
+</p>
 
-While JavaScript is my current playground, I'm always ready to roll up my sleeves for any tech stack. Whether it's Java or a new kid on the block, I'm all in for engineering solutions that matter.
-
+Currently, I'm focused on exploring client-server architectures to boost web performance—leveraging techniques like static site generation, server-side rendering, and streaming SSR. Feel free to reach out for a virtual coffee chat!
+</p>
+<p>
 Let's connect and maybe swap some code stories over a virtual coffee! ☕️
+</p>
 
 <br />
 
